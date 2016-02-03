@@ -4,3 +4,19 @@
 h2 {
   font-weight: normal;
 }
+#para1 {
+  font-weight: 100;
+  font-family: "Georgia",sans-serif;
+}
+#para2 {
+  font-weight: 300;
+  font-family: monospace;
+}
+#para3 {
+  font-weight: 700;
+  font-family: serif;
+}
+#para4 {
+  font-weight: 900;
+  font-family: cursive;
+}
